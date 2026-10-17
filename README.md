@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Node.js backend developer with 1+ years of experience building scalable REST APIs, automation pipelines, and background job systems. I enjoy turning messy manual workflows into reliable, automated ones.
+I'm a Node.js backend developer with 2+ years of experience building scalable REST APIs, automation pipelines, and background job systems. I enjoy turning messy manual workflows into reliable, automated ones.
 
 - 🔧 Hands-on with **Redis caching**, **BullMQ job queues**, and **Cron-based scheduling**
 - 🔌 Experienced with third-party integrations: **Stripe, Gelato, Klaviyo, Azure Email, SendGrid**
@@ -84,46 +84,6 @@ I'm a Node.js backend developer with 1+ years of experience building scalable RE
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 📚 Storybook AI – Personalized Children's Storybook
-`Express.js` `MongoDB` `Stripe` `Gelato` `Klaviyo`
-- Designed a multi-step checkout API enforcing **payment-before-generation** logic via Stripe, preventing unauthorized book creation and protecting revenue integrity.
-- Integrated Gelato for automated print order creation and fulfillment; triggered Klaviyo email workflows for order confirmations and delivery notifications across async multi-stage pipelines.
-
-### 📬 Winchurch
-`Node.js` `Express.js` `Prisma` `Azure`
-- Integrated Azure Email Service for full email lifecycle management (send, reply, forward, draft, folders) inside the platform.
-- Implemented manual claim assignment/unassignment workflows, giving users ownership control over email communications.
-
-### 🏏 Crickedge
-`Node.js` `Express.js` `Mongoose` `BullMQ` `CronJob`
-- Built a fantasy team point calculation engine, real-time leaderboard generation, and player season/match points tracking.
-- Developed match commentary logic, fixed point-table sync bugs, and used BullMQ + Cron Jobs for automated score refresh cycles.
-
-### 🤖 HRMS Automation
-`n8n` `OpenClaw`
-- Fully automated recruitment workflow: **email receipt → attachment extraction → resume parsing → candidate record creation → interview scheduling → HRMS sync**.
-- Eliminated manual resume screening so the HR team can process inbound applications with minimal human intervention.
-
----
-
-## 💼 Experience
-
-**Software Developer — MatlabInfotech** · Surat, Gujarat *(Jun 2025 – Jul 2026)*
-- Built and maintained RESTful APIs with Node.js & Express.js, with secure JWT authentication and authorization.
-- Integrated Stripe (payments), SendGrid (email notifications), Gelato (print services), and Azure Email Provider (fetch, send, draft, move emails).
-- Created n8n and OpenClaw automation workflows for an end-to-end HRMS recruitment process.
-
-**Software Intern — MatlabInfotech** · Surat, Gujarat *(Dec 2024 – Jun 2025)*
-- Automated train/station data scraping with Puppeteer & Cheerio, managed via BullMQ with concurrency control.
-- Scheduled recurring backend tasks (data sync, report generation) with Cron Jobs and a Redis-based BullMQ queue.
-- Built Android apps with Kotlin, Jetpack Compose, Material 3, Firebase Auth & Realtime Database, and Ktor-based REST integration.
-
----
-
 ## 🎓 Education
 
 - **B.Tech in Information Technology** — Uka Tarsadia University, Surat *(2021 – 2025)*
@@ -135,10 +95,6 @@ I'm a Node.js backend developer with 1+ years of experience building scalable RE
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthikD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthikD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SarthikD&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
