@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Sarthik Dobariya 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarthik%20Dobariya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Node.js%20Backend%20Developer&descSize=20&descAlignY=58" alt="Sarthik Dobariya banner"/>
 
 <p align="center">
-  <b>Node.js Backend Developer</b> · Automation & Queue Systems · Android (Kotlin)
-  <br/>
-  📍 Surat, Gujarat, India
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+scalable+REST+APIs;Automating+workflows+with+n8n+%26+OpenClaw;Queues+%26+background+jobs+with+BullMQ;Android+apps+with+Kotlin+%26+Jetpack+Compose" alt="Typing intro"/>
 </p>
 
+<p align="center">📍 Surat, Gujarat, India &nbsp;|&nbsp; 💼 Software Developer &nbsp;|&nbsp; 🎓 B.Tech IT</p>
+
 <p align="center">
-  <a href="https://linkedin.com/in/sarthik-dobariya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sarthikbdobariya12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/SARTHIKDOBARIYA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/sarthik-dobariya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1b1f24" alt="LinkedIn"/></a>
+  <a href="mailto:sarthikbdobariya12@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1b1f24" alt="Email"/></a>
+  <a href="https://github.com/SarthikD"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"/></a>
 </p>
 
 ---
@@ -33,6 +33,8 @@ I'm a Node.js backend developer with 1+ years of experience building scalable RE
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
 
 **Backend**
 
@@ -71,6 +73,7 @@ I'm a Node.js backend developer with 1+ years of experience building scalable RE
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Tools & DevOps**
 
@@ -80,7 +83,6 @@ I'm a Node.js backend developer with 1+ years of experience building scalable RE
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -128,6 +130,18 @@ I'm a Node.js backend developer with 1+ years of experience building scalable RE
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthikD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthikD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SarthikD&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
 
 ## 📫 Let's Connect
 
