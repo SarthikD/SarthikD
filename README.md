@@ -10,6 +10,7 @@
   <a href="https://linkedin.com/in/sarthik-dobariya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1b1f24" alt="LinkedIn"/></a>
   <a href="mailto:sarthikbdobariya12@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1b1f24" alt="Email"/></a>
   <a href="https://github.com/SarthikD"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"/></a>
+  <a href="https://sarthikd.github.io/"><img src="https://img.shields.io/badge/Portfolio-sarthikd.github.io-36BCF7?style=flat&logo=githubpages&logoColor=white&labelColor=1b1f24" alt="Portfolio"/></a>
 </p>
 
 ---
