@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarthik%20Dobariya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Node.js%20Backend%20Developer&descSize=20&descAlignY=58" alt="Sarthik Dobariya banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarthik%20Dobariya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descSize=20&descAlignY=58" alt="Sarthik Dobariya banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+scalable+REST+APIs;Automating+workflows+with+n8n+%26+OpenClaw;Queues+%26+background+jobs+with+BullMQ;Android+apps+with+Kotlin+%26+Jetpack+Compose" alt="Typing intro"/>
