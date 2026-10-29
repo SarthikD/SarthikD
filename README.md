@@ -60,6 +60,7 @@ I'm a Node.js backend developer with 2+ years of experience building scalable RE
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Cheerio](https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-444444?style=flat-square&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Support-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 **Integrations**
 
