@@ -92,15 +92,6 @@ I'm a Node.js backend developer with 2+ years of experience building scalable RE
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthikD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthikD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm open to backend, automation, and Node.js opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/sarthik-dobariya) or [email](mailto:sarthikbdobariya12@gmail.com).
